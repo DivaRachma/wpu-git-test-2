@@ -8,5 +8,8 @@
 <body>
     <h1>Hello World!</h1>
     <p>apa we kepo</P>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
 </body>
 </html>
